@@ -4,6 +4,8 @@ A clean, modular React component for submitting field suggestions with comments 
 
 🔗 **Live Demo:** https://comment-widget-rho.vercel.app/
 
+https://www.loom.com/share/6e7eb68139754d9abdf4b93033f68c20
+
 ---
 
 ## What it does
@@ -99,3 +101,5 @@ import CommentWidget from "./components/CommentWidget";
 - Floating comment dialog with scrollable thread
 - Avatar with deterministic color from user name
 - All business logic in custom hooks — components are purely presentational
+
+
